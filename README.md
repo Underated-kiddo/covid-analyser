@@ -18,6 +18,9 @@ This project is a Python-based data analysis and visualization tool for tracking
 
 ## Setup
 1. Clone the repository or download the project files.
+
+N/B also due to the large file of the dataset i wont include it so you can download it from kaggle and add it to the folder
+ 
 2. Ensure the `owid-covid-data.csv` file is in the project directory.
 3. Install the required Python libraries:
    ```bash
